@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Achraf/CLionProjects/Arbres/Fonctions.h
+
+C:/Users/Achraf/CLionProjects/Arbres/main.c
+stdio.h
+-
+Fonctions.h
+C:/Users/Achraf/CLionProjects/Arbres/Fonctions.h
+

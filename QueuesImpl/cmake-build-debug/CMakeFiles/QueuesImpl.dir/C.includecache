@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Achraf/CLionProjects/QueuesImpl/WithLinkedList.c
+WithLinkedList.h
+C:/Users/Achraf/CLionProjects/QueuesImpl/WithLinkedList.h
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/Achraf/CLionProjects/QueuesImpl/WithLinkedList.h
+

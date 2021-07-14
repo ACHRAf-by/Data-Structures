@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Achraf/CLionProjects/QueueSimulation/Simulations.c
+stdlib.h
+-
+stdio.h
+-
+time.h
+-
+process.h
+-
+Simulations.h
+C:/Users/Achraf/CLionProjects/QueueSimulation/Simulations.h
+
+C:/Users/Achraf/CLionProjects/QueueSimulation/Simulations.h
+
